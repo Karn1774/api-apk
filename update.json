@@ -1,0 +1,7 @@
+{
+    "versionCode": 2,
+    "versionName": "2.11",
+    "apk_url": "https://3kshopsampmobile.pro/downloads/app-release.apk",
+    "changelog": "• อัปเดตอินเทอร์เฟซตารางคะแนน Scoreboard สไตล์ xAI\n• เพิ่มระบบดาวน์โหลดและส่งไฟล์ Crash Log เข้า Discord Webhook\n• เพิ่มระบบ Auto Update อัปเดต APK อัตโนมัติ\n• ปรับปรุงความเสถียรและประสิทธิภาพการเล่นเกม",
+    "force_update": false
+}
